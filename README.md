@@ -3,6 +3,10 @@
 
 下載專案後先執行
 
-`npm install`
+`npm install` 
+
+or
+
+`yarn install`
 
 將專案中需要的 package 安裝進來
